@@ -1,0 +1,51 @@
+body{
+  background: #04152d;
+}
+
+.container{
+  margin: 20px auto;
+  /* padding: 20px; */
+  width: 80%;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color:white;
+  font-size: 18px;
+}
+
+.link{
+  width: 70%;
+  text-decoration: none;
+  color: inherit; 
+}
+
+.app{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+margin: 5px;
+padding: 1px 30px;
+color:#576cbc;
+background: rgb(241, 207, 146);
+}
+
+.link:hover{
+  box-shadow: 1px 3px 5px 2px rgba(245, 244, 244, 0.5);
+}
+
+.icon{
+  width: 20%;
+}
+
+.text{
+  width: 80%;
+ padding: 10px;
+}
+
+.text h2:hover{
+  color: #04152d;
+  
+}
+

@@ -1,0 +1,19 @@
+.web-shop{
+  font-family: sans-serif;
+  background: white;
+  padding: 0; 
+  margin: -10px;
+  box-sizing: border-box; 
+}
+
+a{
+  text-decoration: none;
+  color: rgb(97,97,97);
+}
+
+li{
+  list-style: none;
+} 
+
+
+
